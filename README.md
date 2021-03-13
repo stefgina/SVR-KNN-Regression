@@ -11,7 +11,7 @@ pip install numpy
 ```
 
 ## Problem Description
-The dataset for this particular problem is the stock values of FACEBOOK (NASDAQ:FB) for the month May in 2019. The task is to predict the [open] stock price for the last day of May, based on the previous stock values of the same month.
+The dataset for this particular problem is the stock values of FACEBOOK (NASDAQ:FB) for the month May in 2019, but you can choose whatever stock or sequential entity you want. The task is to predict the [open] stock price for the last day of May, based on the previous stock values of the same month.
 
 <img src="https://github.com/stefgina/stock-prediction-svm-regression/blob/main/dataset.png">
 
