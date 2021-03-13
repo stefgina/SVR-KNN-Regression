@@ -1,5 +1,7 @@
 # Stock Prediction
-
+```python
+Author-> Stefanos Ginargyros
+```
 ## Dependencies
 In order to run the script, you will need the following dependencies:
 
