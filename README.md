@@ -26,7 +26,7 @@ The following algorithms were used for this purpose :
 - K-Neighbors
 
 ## Benchmarks
-The regression benchmarks are depicted as follows:
+The regression benchmarks are depicted here:
 
 <img src="https://github.com/stefgina/stock-prediction-svm-regression/blob/main/curves.png">
 
