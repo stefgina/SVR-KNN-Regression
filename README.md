@@ -3,7 +3,7 @@
 Author-> Stefanos Ginargyros
 ```
 ## Dependencies
-In order to run the script, you will need the following dependencies:
+In order to run the script, you will have to install the following dependencies:
 
 ```
 pip install matplotlib
