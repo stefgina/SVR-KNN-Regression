@@ -6,10 +6,7 @@ Author-> Stefanos Ginargyros
 In order to run the script, you will have to install the following dependencies:
 
 ```
-pip install matplotlib
-pip install pandas
-pip install scikit-learn
-pip install numpy
+pip install -r requirements.txt
 ```
 
 ## Problem Description
